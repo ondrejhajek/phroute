@@ -1,4 +1,4 @@
-PHRoute - Fast request router for PHP
+PHRoute - Fast request router for PHP 8
 =======================================
 
 ## This library provides a fast implementation of a regular expression based router.
